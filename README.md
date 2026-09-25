@@ -14,7 +14,11 @@ and results are still evolving.
 - [x] V-JEPA feature extraction pipeline
 - [x] Baseline KNN anomaly detector
 - [ ] Full test-set evaluation
-- [ ] Comparison against other backbones/baselines
+
+## Future Work
+- Improve the anomaly classifier/detector (beyond simple k-NN)
+- Experiment with alternative backbones
+- Train/evaluate on the complete dataset
 
 ## Run it
 Open `VJEPA_VAD_organized.ipynb` in Google Colab (GPU runtime). Requires a Kaggle
