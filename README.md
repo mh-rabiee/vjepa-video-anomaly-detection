@@ -7,6 +7,13 @@ footage.
 🚧 **Ongoing research project** — part of ongoing work at the **AISL Lab**. Pipeline
 and results are still evolving.
 
+## Collaboration
+
+This project is jointly developed by:
+
+- Mohammadhossein Rabiee
+- Amirhossein Karimzadgan
+
 ## Pipeline
 `Normal videos → V-JEPA (ViT-L/16) embeddings → KNN novelty detector → anomaly score`
 
