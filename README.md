@@ -13,7 +13,7 @@ and results are still evolving.
 ## Status
 - [x] V-JEPA feature extraction pipeline
 - [x] Baseline KNN anomaly detector
-- [ ] Full test-set evaluation
+- [x] Full test-set evaluation
 
 ## Future Work
 - Improve the anomaly classifier/detector (beyond simple k-NN)
